@@ -10,6 +10,9 @@ rake server
 npm install
 npm start
 
+### Link to the frontend repo:
+https://github.com/abby-anderson/flatiron-marketplace-frontend
+
 ### The below text comes from Canvas
 
 # Phase 3 Project Guidelines
