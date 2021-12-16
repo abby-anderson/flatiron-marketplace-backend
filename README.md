@@ -13,6 +13,8 @@ To get this up and running in the backend, run:
 
 `rake server`
 
+### Link to the frontend repo:
+https://github.com/abby-anderson/flatiron-marketplace-frontend
 
 Note: Since the backend and frontend are in different repositories for this project, you'll have to cd into the frontend project folder before moving forward with starting the react app. Once there, run:
 
@@ -29,3 +31,5 @@ https://youtu.be/MG1mwIdrn0Y
 
 ### Final note
 Please note that this is a work in progress! I will continue adding and improving features as I level up my skills. Feel free to share any comments or suggestions with me!
+
+
